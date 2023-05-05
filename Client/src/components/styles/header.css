@@ -1,0 +1,9 @@
+.nav-ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+.nav-ul{
+    background-color: skyblue;
+    list-style: none;
+}
